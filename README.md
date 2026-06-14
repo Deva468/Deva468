@@ -1,16 +1,27 @@
-## Hi there 👋
+public class Devanandh {
 
-<!--
-**Deva468/Deva468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    String name        = "Devanandh K";
+    String location    = "Kanchipuram, Tamil Nadu, India";
+    String degree      = "B.E. CSE (Cyber Security) @ Dhanalakshmi College of Engineering";
+    double cgpa        = 8.14;
 
-Here are some ideas to get you started:
+    String[] stack = {
+        "HTML", "CSS", "JavaScript",
+        "React.js", "Node.js", "Java",
+        "MySQL", "Git", "Figma"
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    String[] currentlyLearning = {
+        "React.js (Advanced)",
+        "Node.js & Express",
+        "Cyber Security Fundamentals",
+        "Japanese 🇯🇵"
+    };
+
+    String funFact = "I speak Tamil natively, English professionally, "
+                   + "and Japanese... kawaii desu ne! 🌸";
+
+    String motto() {
+        return "Build fast. Break things. Learn faster. 🚀";
+    }
+}
