@@ -140,7 +140,7 @@ I'm **Devanandh K**, a final-year B.E. Computer Science and Engineering (Cyber S
 | [**CoreDesk — IT Service Desk Platform**](https://mern-project-fex5.vercel.app/) | MongoDB, Express.js, React.js, Node.js | Full-stack IT service desk platform for creating, tracking, assigning, and resolving support tickets, with authentication, ticket status management, REST APIs, and MongoDB storage. |
 | [**CyberShield — Cyber Security Chatbot**](https://cybershield-security-chatbot.vercel.app/) | HTML, CSS, JavaScript | Rule-based cybersecurity awareness chatbot covering topics such as phishing, malware, ransomware, and network security. |
 | [**Password Strength Analyzer**](https://password-strength-deva.vercel.app/) | HTML, CSS, JavaScript | Analyzes password strength with a score and live strength meter, and provides feedback on password length, character variety, and common patterns. Password analysis runs client-side. |
-| **Japanese Vocabulary Quiz** | React.js, JavaScript, HTML, CSS | Interactive Japanese vocabulary quiz with level-based questions, instant feedback, and score tracking. Add its verified live-demo or repository URL when available. |
+| [**Japanese Vocabulary Quiz**] ( https://japanese-vocbulary-quiz.vercel.app/) | React.js, JavaScript, HTML, CSS | Interactive Japanese vocabulary quiz with level-based questions, instant feedback, and score tracking. Add its verified live-demo or repository URL when available. |
 
 > **Project links:** Check each URL before publishing. If a project has a different current live URL, replace the link with its verified URL. Add a GitHub repository link for the final-year project only when the repository is ready to share.
 
